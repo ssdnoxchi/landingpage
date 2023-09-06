@@ -1,2 +1,2 @@
 # landingpage
-Project: Landing Page from The Odin Project
+"Project: Landing Page" from The Odin Project
